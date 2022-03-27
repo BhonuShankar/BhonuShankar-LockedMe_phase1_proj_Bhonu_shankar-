@@ -3,7 +3,7 @@ BhonuShankar/LockedMe_phase1_proj_Bhonu_shankar
 # LockedMe.com
 ## Simplilearn Phase-1 project
 
-[GITHUB REPOSITORY LINK : https://github.com/BhonuShankar/LockedMe.com/tree/master](https://github.com/BhonuShankar/LockedMe.com/tree/master)
+[GITHUB REPOSITORY LINK :https://github.com/BhonuShankar/BhonuShankar-LockedMe_phase1_proj_Bhonu_shankar-](https://github.com/BhonuShankar/BhonuShankar-LockedMe_phase1_proj_Bhonu_shankar-)
 
 ## General info
 A simple file handling project in Java
